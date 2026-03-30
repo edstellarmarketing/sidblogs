@@ -1,0 +1,13 @@
+# Local settings
+.claude/settings.local.json
+
+# Nested git repos
+sid-streamlit/.git/
+
+# Environment files
+.env
+*.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
